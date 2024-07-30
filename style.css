@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(144, 160, 250);
+}
+header{
+    background-color: rgb(12, 15, 170);
+    padding: 15px;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    background-color: rgb(252, 212, 152);
+    padding: 30px;
+    height: 120px;
+}
+#add{
+    color: white;
+    background-color: rgb(12, 15, 170);
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 40%;
+}
+input{
+    padding: 3px;
+    width: 150px;
+
+}
+button{
+    border: none;
+    background-color: rgb(252, 212, 152);
+}
+.table{
+    margin-top: 100px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th , td{
+    align-items: center;
+    border: 2px solid rgb(144, 160, 250);
+    height: 30px;
+}
+th{
+    background-color: blue;
+    color: white;
+}
+td{
+    background-color: rgb(252, 212, 152);
+    text-align: center; 
+}
